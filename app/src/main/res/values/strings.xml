@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smash The Bug</string>
+    <string name="HighScore">Assets.HighScore</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="High Score"
+        android:textSize="20px">
+        <Preference
+            android:title="Best score obtained so far"
+            android:summary="@string/HighScore"
+            android:key="my_high_score"/>
+    </PreferenceCategory>
+</PreferenceScreen>
